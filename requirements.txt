@@ -1,1 +1,4 @@
-
+Microsoft Excel 2022 (or Excel 2016+)
+Git >= 2.30
+Canva (for presentation visuals, optional)
+Basic understanding of Excel formulas, pivot tables, and charts
