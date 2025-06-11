@@ -40,14 +40,14 @@ The project answers this through in-depth analysis of variables such as:
 ## 📁 Folder Structure
 
 IMDB-Movies-Analysis/
-─ dataset_IMBD_movie/ # Excel file used in analysis
-─ visuals/ # Images of charts and graphs
+- dataset_IMBD_movie/ # Excel file used in analysis
+- visuals/ # Images of charts and graphs
  ├── genre_chart.png
  ├── director_avg_scores.png
 - IMBD final.xlsx #   Solution of the dataset
-─ IMDB Movies.pdf # Final presentation/report
-─ README.md # Project documentation
-─ requirements.txt # Environment and tools
+- IMDB Movies.pdf # Final presentation/report
+- README.md # Project documentation
+- requirements.txt # Environment and tools
 
 ---
 
